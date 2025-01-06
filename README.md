@@ -1,4 +1,4 @@
-# AI Chatbot with LangChain and Streamlit
+# AI MEDICAL Chatbot with LangChain and Streamlit
 
 This project demonstrates the creation of an AI-powered chatbot assistant using the LangChain library, Streamlit for the user interface, and Hugging Face embeddings and models. The chatbot processes PDF documents, creates vector embeddings, stores them in FAISS, and retrieves contextually relevant answers to user queries.
 
